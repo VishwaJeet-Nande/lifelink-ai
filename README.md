@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./assets/lifelink-banner.png" alt="LifeLink AI Banner">
+</p>
 # LifeLink AI
 
 ### Intelligent Emergency Response & Healthcare Coordination Platform
